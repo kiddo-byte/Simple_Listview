@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Simple Listview</string>
+
+    <string-array name="services">
+        <item>Fuliza</item>
+        <item>Send Money</item>
+        <item>Buy Goods and Services</item>
+        <item>My Account</item>
+    </string-array>
+
+</resources>
